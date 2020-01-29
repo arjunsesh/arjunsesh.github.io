@@ -17,7 +17,7 @@ I interned at Stitch Fix in the Summer of 2019, where I helped develop numerous 
 Preprints
 ======
 - A Seshadri, J Ugander
-[Fundamental Limits of Testing the Independence of Irrelevant Alternatives in Discrete Choice (Journal Version)] (https://arxiv.org/abs/2001.07042)
+[Fundamental Limits of Testing the Independence of Irrelevant Alternatives in Discrete Choice (Journal Version)](https://arxiv.org/abs/2001.07042)
 arXiv, January 2019. 
 
 Publications
