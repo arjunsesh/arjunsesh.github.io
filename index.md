@@ -1,6 +1,6 @@
-<title>Arjun Seshadri<\title>
+<title>Arjun Seshadri</title>
   
 # Arjun Seshadri
 
-## PhD Student, Stanford University
+##### PhD Student, Stanford University
 
