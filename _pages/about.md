@@ -12,12 +12,12 @@ About
 ======
 I am a PhD Student at Stanford University advised by [Johan Ugander](http://stanford.edu/~jugander/) and a part-time Data Scientist at [Stitch Fix](https://algorithms-tour.stitchfix.com/). I am broadly interested in the theory and applications of Machine Learning in graphical settings. One of my main focuses has been designing and analyzing learning algorithms for discrete choice, where the aim is to understand preferences revealed from choices individuals make when presented with a set of alternatives. My work commonly falls at the intersection of Machine Learning, Statistics, Optimization, and Graph Theory.
 
-I interned at Stitch Fix in the Summer of 2019, where I helped develop numerous approaches to better understand Client and Stylist preferences. Before my graduate work I received a BS in Electrical Engineering, Mathematics, and Economics from the [University of Wisconsin](https://www.wisc.edu/), where I was advised by [Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/) and [Robert Blick](https://directory.engr.wisc.edu/mse/Faculty/Blick_Robert/). 
+I interned at Stitch Fix in the Summer of 2019, where I helped develop numerous approaches to better understand Client and Stylist preferences. Before my graduate work I received a BS in Electrical Engineering, Mathematics, and Economics from the [University of Wisconsin](https://www.wisc.edu/), where I was advised by [Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/) and [Robert Blick](https://directory.engr.wisc.edu/mse/Faculty/Blick_Robert/). I have also interned at a number of companies in the past, including [Microsoft](https://azure.microsoft.com/en-us/services/media-services/) and [Silicon Labs](https://www.silabs.com/).
 
 Preprints
 ======
-A Seshadri, J Ugander
-Fundamental Limits of Testing the Independence of Irrelevant Alternatives in Discrete Choice (Journal Version)
+- A Seshadri, J Ugander
+[Fundamental Limits of Testing the Independence of Irrelevant Alternatives in Discrete Choice (Journal Version)] (https://arxiv.org/abs/2001.07042)
 arXiv, January 2019. 
 
 Publications
