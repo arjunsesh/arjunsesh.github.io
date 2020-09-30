@@ -10,9 +10,9 @@ redirect_from:
 
 About
 ======
-I am a PhD Student at Stanford University advised by [Johan Ugander](http://stanford.edu/~jugander/) and a part-time Data Scientist at [Stitch Fix](https://algorithms-tour.stitchfix.com/). I am broadly interested in the theory and applications of Machine Learning in graphical settings. One of my main focuses has been designing and analyzing learning algorithms for discrete choice, where the aim is to understand preferences revealed from choices individuals make when presented with a set of alternatives. My work commonly falls at the intersection of Machine Learning, Statistics, Optimization, and Graph Theory.
+I am a PhD Student at Stanford University advised by [Johan Ugander](http://stanford.edu/~jugander/) and a part-time Research Scientist at [Facebook CDS](https://research.fb.com/teams/core-data-science/). I am broadly interested in the theory and applications of Machine Learning in graphical settings. One of my main focuses has been designing and analyzing learning algorithms for discrete choice, where the aim is to understand preferences revealed from choices individuals make when presented with a set of alternatives. My work commonly falls at the intersection of Machine Learning, Statistics, Optimization, and Graph Theory.
 
-I interned at Stitch Fix in the Summer of 2019, where I helped develop numerous approaches to better understand Client and Stylist preferences. Before my graduate work I received a BS in Electrical Engineering, Mathematics, and Economics from the [University of Wisconsin](https://www.wisc.edu/), where I was advised by [Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/) and [Robert Blick](https://directory.engr.wisc.edu/mse/Faculty/Blick_Robert/). I have also interned at a number of companies in the past, including [Microsoft](https://azure.microsoft.com/en-us/services/media-services/) and [Silicon Labs](https://www.silabs.com/).
+I interned at [Stitch Fix](https://algorithms-tour.stitchfix.com/) in the Summer of 2019, where I helped develop numerous approaches to better understand Client and Stylist preferences. Before my graduate work I received a BS in Electrical Engineering, Mathematics, and Economics from the [University of Wisconsin](https://www.wisc.edu/), where I was advised by [Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/) and [Robert Blick](https://directory.engr.wisc.edu/mse/Faculty/Blick_Robert/). I have also interned at a number of companies in the past, including [Microsoft](https://azure.microsoft.com/en-us/services/media-services/) and [Silicon Labs](https://www.silabs.com/).
 
 Preprints
 ======
@@ -22,11 +22,14 @@ arXiv, January 2019.
 
 Publications
 ======
+- A Seshadri, S Ragain, J Ugander
+[Learning Rich Rankings](https://arjunsesh.github.io/files/lrr_neurips.pdf)
+To Appear in Neural Information Processing Systems (NeurIPS), 2020.
 - A Seshadri, J Ugander
 [Fundamental Limits of Testing the Independence of Irrelevant Alternatives in Discrete Choice](https://dl.acm.org/doi/10.1145/3328526.3329656)
 ACM Conference on Economics and Computation (EC), 2019.
 - A Seshadri, A Peysakhovich, J Ugander
-[Discovering Context Effects from Raw Choice Data](http://proceedings.mlr.press/v97/seshadri19a.html)
+[Discovering Context Effects from Raw Choice Data](https://arxiv.org/abs/1902.03266)
 International Conference on Machine Learning (ICML), 2019.
 - A Bhat, PV Gwozdz, A Seshadri, M Hoeft, RH Blick
 [Tank Circuit for Ultrafast Single-Particle Detection in Micropores](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.078102)
