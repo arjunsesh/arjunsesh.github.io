@@ -10,9 +10,9 @@ redirect_from:
 
 About
 ======
-I am a PhD Student at Stanford University advised by [Johan Ugander](http://stanford.edu/~jugander/) and a part-time Research Scientist at [Facebook CDS](https://research.fb.com/teams/core-data-science/). I am broadly interested in the theory and applications of Machine Learning in graphical settings. One of my main focuses has been designing and analyzing learning algorithms for discrete choice, where the aim is to understand preferences revealed from choices individuals make when presented with a set of alternatives. My work commonly falls at the intersection of Machine Learning, Statistics, Optimization, and Graph Theory.
+I am a Senior Applied Scientist at [Amazon Style](https://www.amazon.com/b?ie=UTF8&node=23676409011), where I help develop the ML that powers Amazon's first-ever physical store for clothing. Before Amazon, I was a PhD Student at Stanford University advised by [Johan Ugander](http://stanford.edu/~jugander/), where I focused on designing and analyzing learning algorithms for discrete choice and recommender systems. My work commonly falls at the intersection of Machine Learning, Statistics, and Recommender Systems.
 
-I interned at [Stitch Fix](https://algorithms-tour.stitchfix.com/) in the Summer of 2019, where I helped develop numerous approaches to better understand Client and Stylist preferences. Before my graduate work I received a BS in Electrical Engineering, Mathematics, and Economics from the [University of Wisconsin](https://www.wisc.edu/), where I was advised by [Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/) and [Robert Blick](https://directory.engr.wisc.edu/mse/Faculty/Blick_Robert/). I have also interned at a number of companies in the past, including [Microsoft](https://azure.microsoft.com/en-us/services/media-services/) and [Silicon Labs](https://www.silabs.com/).
+I interned at [Facebook CDS](https://research.fb.com/teams/core-data-science/) in the Summer of 2020, and helped develop ways to use People You May Know (PYMK) to catch spammers. In the Summer of 2019, I interned at [Stitch Fix](https://algorithms-tour.stitchfix.com/) where I helped develop numerous approaches to better understand Client and Stylist preferences. Before my graduate work I received a BS in Electrical Engineering, Mathematics, and Economics from the [University of Wisconsin](https://www.wisc.edu/), where I was advised by [Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/) and [Robert Blick](https://directory.engr.wisc.edu/mse/Faculty/Blick_Robert/). I have also interned at a number of companies in the past, including [Microsoft](https://azure.microsoft.com/en-us/services/media-services/) and [Silicon Labs](https://www.silabs.com/).
 
 Preprints
 ======
@@ -22,9 +22,14 @@ arXiv, January 2019.
 
 Publications
 ======
+- A Xu, M Vasileva, A Dave, A Seshadri
+[HandsOff: Labeled Dataset Generation With No Additional Human Annotations](https://arxiv.org/abs/2212.12645) Conference on Computer Vision and Pattern Recognition (CVPR), 2023. *CVPR Highlight Award*
+-	S Verma, A Beniwal, N Sadagopan and A Seshadri (2022) [RecXplainer: Post-hoc Attribute Based Explainability for Recommender Systems](https://arxiv.org/abs/2211.14935), NeurIPS Trustworthy Embodied AI Workshop, 2022. *Best Student Paper Award*
+- K Sevegnani, A Seshadri, T Wang, A Beniwal, J McAuley, A Lu, G Medioni
+[Contrastive Learning for Interactive Recommendation in Fashion](https://arxiv.org/abs/2207.12033) SIGIR Workshop On eCommerce, 2022.
 - A Seshadri, S Ragain, J Ugander
 [Learning Rich Rankings](https://arjunsesh.github.io/files/lrr_neurips.pdf)
-To Appear in Neural Information Processing Systems (NeurIPS), 2020.
+Neural Information Processing Systems (NeurIPS), 2020.
 - A Seshadri, J Ugander
 [Fundamental Limits of Testing the Independence of Irrelevant Alternatives in Discrete Choice](https://dl.acm.org/doi/10.1145/3328526.3329656)
 ACM Conference on Economics and Computation (EC), 2019.

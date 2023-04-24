@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arjun Seshadri"
 title_separator          : ""
 name                     : &name "Arjun Seshadri"
-description              : &description "PhD Student, Stanford University"
+description              : &description "Senior Applied Scientist, Amazon Style"
 url                      : https://arjunsesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arjunsesh/arjunsesh.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Arjun Seshadri"
-  avatar           : "arjun.jpg"
-  bio              : "PhD Student, Stanford University"
-  location         : "Menlo Park, CA"
+  avatar           : "arjun_zoom.jpg"
+  bio              : "Senior Applied Scientist, Amazon Style"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TKqTiiUAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/arjun-seshadri-7a445239/
+  linkedin         : "https://www.linkedin.com/in/arjun-seshadri-7a445239/"
   orcid            : 
   pinterest        :
   soundcloud       :
