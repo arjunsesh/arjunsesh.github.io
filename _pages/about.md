@@ -25,7 +25,7 @@ Publications
 - A Xu, M Vasileva, A Dave, A Seshadri
 [HandsOff: Labeled Dataset Generation With No Additional Human Annotations](https://arxiv.org/abs/2212.12645) Conference on Computer Vision and Pattern Recognition (CVPR), 2023. **CVPR Highlight Award** (Top 2% of Submissions)
 - A Awadelkarim, A Seshadri, I Lo, I Ashlagi, J Ugander
-[Rank-heterogeneous preference models for school choice](link-tba) Knowledge Discovery and Data Mining (KDD), 2023. 
+[Rank-heterogeneous preference models for school choice](https://arxiv.org/abs/2306.01801) Knowledge Discovery and Data Mining (KDD), 2023.
 -	S Verma, A Beniwal, N Sadagopan A Seshadri (2022) [RecXplainer: Post-hoc Attribute Based Explainability for Recommender Systems](https://arxiv.org/abs/2211.14935), NeurIPS Trustworthy Embodied AI Workshop, 2022. **Best Student Paper Award**
 - K Sevegnani, A Seshadri, T Wang, A Beniwal, J McAuley, A Lu, G Medioni
 [Contrastive Learning for Interactive Recommendation in Fashion](https://arxiv.org/abs/2207.12033) SIGIR Workshop On eCommerce, 2022.
