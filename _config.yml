@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arjun Seshadri"
 title_separator          : ""
 name                     : &name "Arjun Seshadri"
-description              : &description "Senior Applied Scientist, Amazon Style"
+description              : &description "Senior Applied Scientist, AWS AI Labs"
 url                      : https://arjunsesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arjunsesh/arjunsesh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arjun Seshadri"
   avatar           : "arjun_zoom.jpg"
-  bio              : "Senior Applied Scientist, Amazon Style"
+  bio              : "Senior Applied Scientist, AWS AI Labs"
   location         : "San Francisco, CA"
   employer         :
   pubmed           : 
